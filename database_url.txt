@@ -1,0 +1,4 @@
+postgresql://myapp_db_kmhb_user:RJrHc2nCCTa9izS7fGITIiv6xhBhm6pA@dpg-d26on7e3jp1c73db49hg-a.singapore-postgres.render.com/myapp_db_kmhb
+
+
+postgresql://myapp_db_kmhb_user:RJrHc2nCCTa9izS7fGITIiv6xhBhm6pA@dpg-d26on7e3jp1c73db49hg-a/myapp_db_kmhb
